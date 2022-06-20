@@ -1,11 +1,11 @@
 import os
-origin = "C:\\Users\\guilh\\OneDrive\\Documentos\\Trabalho\\Blog_receitas_da_Graca\\graca_receitas\\receitas_feitas"
+origin = "**PLACE HERE YOUR DIR**"
 
 # Open Folder
 print(len(os.listdir(origin)))
 
 # Open the File
-with open("receitas_feitas_Bracero.txt", mode="w") as file:
+with open("FILES.txt", mode="w") as file:
     # For each file:
     for f in os.listdir(origin):
 
