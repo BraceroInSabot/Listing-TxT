@@ -1,4 +1,4 @@
-# Naming files in a .Txt file
+# Listing TxT files in a Directory
 > Python will read every file name in a "X" directory and write his names in a Txt file
 
 Read every files name in a directory and write it in a .txt file
